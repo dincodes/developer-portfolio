@@ -58,3 +58,16 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#html-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(salmon, orange);
+    border-image-slice: 1;
+}
+#css-experience{
+    border-left: 10px solid;
+    border-image: linear-gradient(cyan, blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center
+}
